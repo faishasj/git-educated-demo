@@ -48,4 +48,6 @@ Submit a pull request.
 ## Attendees
 
 #### Wednesday, 3rd April 2019
+Faisha Surjatin
 Phillip Sgardelis
+
