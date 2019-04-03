@@ -1,5 +1,7 @@
 # Git Educated with diversIT
 
+[![](https://monashdiversit.com/images/icons/long.svg)](https://monashdiversit.com)
+
 This repository is for the live demonstration within the "Git Educated with diversIT" workshop to demonstrate collaboration with Git.
 
 ## Instructions
@@ -50,3 +52,5 @@ Submit a pull request.
 #### Wednesday, 3rd April 2019
 
 Faisha Surjatin
+
+**Nicholas Whittaker** (@nchlswhttkr)
