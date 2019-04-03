@@ -47,4 +47,6 @@ Submit a pull request.
 
 ## Attendees
 
+Nicholas Chmielewski
+
 #### Wednesday, 3rd April 2019
