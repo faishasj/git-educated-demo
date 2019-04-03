@@ -54,3 +54,5 @@ Submit a pull request.
 Faisha Surjatin
 
 **Nicholas Whittaker** (@nchlswhttkr)
+
+Kolya Haisken-De New
