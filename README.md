@@ -48,3 +48,5 @@ Submit a pull request.
 ## Attendees
 
 #### Wednesday, 3rd April 2019
+
+Kolya Haisken-De New
