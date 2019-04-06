@@ -1,4 +1,4 @@
-# Git Educated with diversIT
+# Git Educated with diversIT!
 
 [![](https://monashdiversit.com/images/icons/long.svg)](https://monashdiversit.com)
 
@@ -8,9 +8,9 @@ In this exercise, attendees will act as contributors to a public repository and 
 
 ## Table of Contents
 
-- [Instructions](#instructions)
+- [**Instructions**](#instructions)
 
-- [Attendees](#attendees)
+- [**Attendees**](#attendees)
 
 	- [Wednesday, 3rd April 2019](#wednesday-3rd-april-2019)
 
