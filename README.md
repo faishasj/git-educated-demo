@@ -58,3 +58,5 @@ Faisha Surjatin
 Kolya Haisken-De New
 
 Phillip Sgardelis
+
+[Harsil Patel](https://github.com/harsilspatel)
