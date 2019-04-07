@@ -47,7 +47,7 @@ $ git checkout -b <branch>
 
 **6. Add your name under the correct date in attendees.** Feel free to add your username, link to your account, add an emoji etc. Try not to mess around with the rest of this file, or your pull request might be rejected!
 
-**7. Commit and push the changes to the `origin` remote.** This will update your the remote (forked) repository with the changes you have just made. The `-u` flag ensures there is a tracking connection, which is useful when publishing a local branch to a remote for the first time.
+**7. Commit and push the changes to the `origin` remote.** This will update your remote (forked) repository with the changes you have just made. The `-u` flag ensures there is a tracking connection, which is useful when publishing a local branch to a remote for the first time.
 
 ```bash
 $ git commit -m “<message>”
